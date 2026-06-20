@@ -24,13 +24,13 @@
 **Backend & Databases**
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,py,postgres,mongodb,redis&theme=dark&perline=8" alt="Backend Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,py,postgres,redis&theme=dark&perline=8" alt="Backend Tech Stack" />
 </a>
 
 **Infrastructure & Tools**
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,vscode&theme=dark&perline=8" alt="DevOps Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode&theme=dark&perline=8" alt="DevOps Tech Stack" />
 </a>
 
 <br/>
